@@ -1,1 +1,3 @@
-# myproject
+# jiseob_project
+
+cloning Linux
